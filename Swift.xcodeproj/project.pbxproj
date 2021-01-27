@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3EEFDA0B366000E64599F970 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		EEB02BD025C2295D0054CB69 /* Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEB02BD325C2295D0054CB69 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,6 +44,7 @@
 			children = (
 				EEB02BD225C2295D0054CB69 /* Swift */,
 				EEB02BD125C2295D0054CB69 /* Products */,
+				3EEFDA0B366000E64599F970 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
